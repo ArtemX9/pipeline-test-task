@@ -1,0 +1,39 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    gap: 120px;
+}
+
+.footerIcons {
+    display: inline-grid ;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.footerLinks {
+    display: inline-grid ;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 30px;
+    row-gap: 20px;
+}
+
+.link {
+    color: #0C204D;
+}
+
+.divider {
+    height: 1px;
+    background-color: #F4F4F4;
+    border: none;
+}
+
+.copyright {
+    margin-top: 35px;
+    margin-bottom: 60px;
+    color: #0C204D;
+    font-size: 13px;
+}

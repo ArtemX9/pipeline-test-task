@@ -1,0 +1,26 @@
+.indicatorContainer {
+    width: 19px;
+}
+
+.indicator {
+    margin-left: 6px;
+    display: inline-block;
+    width: 4px;
+    height: 20px;
+}
+
+.orfan {
+    background: #0067BB;
+}
+
+.autoimmune {
+    background: #78E6D0;
+}
+
+.oncology {
+    background: #FA6469;
+}
+
+.other {
+    background: #402985;
+}

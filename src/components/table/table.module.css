@@ -1,0 +1,59 @@
+.firstHeaderRow {
+    border-top: solid 1px #E8E8EC;
+    font-size: 18px;
+    color: #0C204D;
+    height: 50px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.secondHeaderRow {
+    background: #0C204D;
+    color: white;
+    height: 50px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.secondHeaderRowCell {
+    font-size: 14px;
+}
+
+.row {
+    border: none;
+    height: 50px;
+}
+
+.bodyRow:nth-child(2n) {
+    background: #fafafb;
+}
+
+.cell {
+    border-right: solid 1px #E8E8EC;
+    border-left: solid 1px #E8E8EC;
+    color: #0C204D;
+}
+
+.cellBottom {
+    border-bottom: solid 1px #E8E8EC;
+}
+
+.typeCol {
+    width: 19px;
+}
+
+.nameCol {
+    width: 250px
+}
+
+.agent {
+    width: 200px;
+}
+
+.diagnosis {
+    width: 200px;
+}
+
+.progress {
+    width: 100px;
+}

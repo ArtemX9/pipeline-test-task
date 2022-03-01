@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+.logo {
+    margin-right: 47px;
+}
+.links {
+    display: flex;
+    gap: 20px;
+    margin-right: 47px;
+}
+.link {
+    color: #0C204D;
+}
+
+.language {
+    background: #0C204D;
+    border-radius: 4px;
+}
+
+.languageLink {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+}

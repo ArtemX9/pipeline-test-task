@@ -1,0 +1,39 @@
+.cell {
+    padding: 0;
+    position: relative;
+}
+
+.cellProgress ::after {
+    content: "";
+    position: absolute;
+    right: -1px;
+    top: 49%;
+    width: 1px;
+    height: 1px;
+    background-color: #0C204D;
+}
+
+.progressCellProgress {
+    width: 100%;
+    height: 1px;
+    background-color: #0C204D;
+}
+
+.progressCellEnd {
+    width: 50%;
+    height: 1px;
+    background-color: #0C204D;
+    position: relative;
+}
+
+.progressCellEnd::after {
+    content: "";
+    position: absolute;
+    right: -5px;
+    top: 50%;
+    width: 5px;
+    height: 5px;
+    background-color: #0C204D;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+}

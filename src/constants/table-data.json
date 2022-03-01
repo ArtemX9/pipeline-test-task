@@ -1,0 +1,151 @@
+[{
+  "name": "ANB-4",
+  "type": "orfan",
+  "agent": "SMN1 transgene AAV9",
+  "diagnosis": "СМА 1 типа",
+  "stage": "development",
+  "product": "original",
+  "molecule": "gene",
+  "platform": "genenext",
+  "field": "orfan"
+},{
+  "name": "ANB-2",
+  "type": "orfan",
+  "agent": "Factor-IX transgene AAV5",
+  "diagnosis": "Гемофилия B",
+  "stage": "development",
+  "product": "original",
+  "molecule": "gene",
+  "platform": "genenext",
+  "field": "orfan"
+},{
+  "name": "Сампэгинтерферон бета-1а (BCD-054)",
+  "type": "autoimmune",
+  "agent": "Pegylated interferon beta-1a",
+  "diagnosis": "Рассеянный склероз",
+  "stage": "phase3",
+  "product": "original",
+  "molecule": "other",
+  "platform": null,
+  "field": "autoimmune"
+},{
+  "name": "Пролголимаб (BCD-100)",
+  "type": "oncology",
+  "agent": "anti-PD-1 mAb",
+  "diagnosis": "НМРЛ",
+  "stage": "phase3",
+  "product": "original",
+  "molecule": "mab",
+  "platform": "mabnext",
+  "field": "oncology"
+},{
+  "name": "Пролголимаб (BCD-100)",
+  "type": "oncology",
+  "agent": "anti-PD-1 mAb",
+  "diagnosis": "Рак шейки матки",
+  "stage": "phase3",
+  "product": "original",
+  "molecule": "mab",
+  "platform": "mabnext",
+  "field": "oncology"
+},{
+  "name": "Дивозилимаб (BCD-132)",
+  "type": "autoimmune",
+  "agent": "anti-CD20 mAb",
+  "diagnosis": "Рассеянный склероз",
+  "stage": "phase3",
+  "product": "original",
+  "molecule": "mab",
+  "platform": "mabnext",
+  "field": "autoimmune"
+},{
+  "name": "BCD-166",
+  "type": "oncology",
+  "agent": "anti-GITR mAb",
+  "diagnosis": "Солидные опухоли",
+  "stage": "development",
+  "product": "original",
+  "molecule": "mab",
+  "platform": "mabnext",
+  "field": "oncology"
+},{
+  "name": "Пролголимаб Нурулимаб (BCD-217)",
+  "type": "oncology",
+  "agent": "anti-CTLA-4 mAb + anti-PD1 mAb",
+  "diagnosis": "Меланома",
+  "stage": "phase2",
+  "product": "original",
+  "molecule": "mab",
+  "platform": "mabnext",
+  "field": "oncology"
+},{
+  "name": "BCD-223",
+  "type": "oncology",
+  "agent": "anti-IL10 mAb",
+  "diagnosis": "Солидные опухоли",
+  "stage": "development",
+  "product": "original",
+  "molecule": "other",
+  "platform": "mabnext",
+  "field": "oncology"
+},{
+  "name": "BCD-225",
+  "type": "oncology",
+  "agent": "anti-IL15SA mAb",
+  "diagnosis": "Солидные опухоли",
+  "stage": "development",
+  "product": "original",
+  "molecule": "other",
+  "platform": "mabnext",
+  "field": "oncology"
+},{
+  "name": "BCD-245",
+  "type": "orfan",
+  "agent": "anti-GD-2 mAb",
+  "diagnosis": "Нейробластома",
+  "stage": "development",
+  "product": "original",
+  "molecule": "mab",
+  "platform": "mabnext",
+  "field": "orfan"
+},{
+  "name": "Вакцина для профилактики COVID-19 (BCD-250)",
+  "type": "other",
+  "agent": "SARS-CoV-2 AAV5-based vaccine",
+  "diagnosis": "Профилактика COVID-19",
+  "stage": "phase1",
+  "product": "original",
+  "molecule": "other",
+  "platform": "genenext",
+  "field": "other"
+},{
+  "name": "Диметил Фумарат (BCD-058)",
+  "type": "autoimmune",
+  "agent": "activator of nuclear factor erythroid 2 [NF-E2]-related factor 2",
+  "diagnosis": "Рассеянный склероз",
+  "stage": "register",
+  "product": "reproduced",
+  "molecule": "small",
+  "platform": null,
+  "field": "autoimmune"
+},{
+  "name": "Сунитиниб (BCD-200)",
+  "type": "oncology",
+  "agent": "indolinone derivative and tyrosine kinase inhibitor",
+  "diagnosis": "Почечно-клеточный рак",
+  "stage": "phase3",
+  "product": "reproduced",
+  "molecule": "small",
+  "platform": null,
+  "field": "oncology"
+},{
+  "name": "Пембролизумаб (BCD-201)",
+  "type": "oncology",
+  "agent": "PD-1 inhibitor",
+  "diagnosis": "Солидные опухоли\nОнкогематология",
+  "stage": "phase2",
+  "product": "reproduced",
+  "molecule": "mab",
+  "platform": null,
+  "field": "oncology"
+}]

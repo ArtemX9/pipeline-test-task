@@ -1,0 +1,21 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
